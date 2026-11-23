@@ -308,6 +308,7 @@ Please open the link yourself on the day you add it, and keep to the scope above
 
 - [india-osint](https://github.com/Ghongha007/india-osint): public records and open data for investigating India
 - [china-osint](https://github.com/Ghongha007/china-osint): public records and open data for investigating China
+- [usa-osint](https://github.com/Ghongha007/usa-osint): public records and open data for investigating the United States
 - [ai-for-osint](https://github.com/Ghongha007/ai-for-osint): AI tools for investigators, with where each runs and its known limits
 - [groundline](https://github.com/Ghongha007/groundline): check every sentence of a draft or AI summary against its source documents
 - [chat2net](https://github.com/Ghongha007/chat2net): turn a chat or social-media export into a Gephi network
